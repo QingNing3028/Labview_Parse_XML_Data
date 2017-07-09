@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2011 (http://www.altova.com) -->
+<实验0001 xsd版本="V1.0" 版本="0" 设计员="test" 实验编号="111" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///I:/%e8%88%aa%e7%ba%bf%e5%9f%ba%e7%a1%80%e5%ba%93/RouteXml/RouteXML1.0/RouteDatabaseV1p0.xsd" 空白标签="">
+  <实验标识码>1</实验标识码>
+  <实验平台>W201706</实验平台>
+  <设备ID 设备序号="1">1</设备ID>
+  <设备ID 设备序号="2">6</设备ID>
+  <设备ID 设备序号="3">11</设备ID>
+  <设备ID 设备序号="4">101</设备ID>
+  <设备ID 设备序号="5">102</设备ID>
+  <设备ID 设备序号="6">103</设备ID>
+  <设备ID 设备序号="7">141</设备ID>
+  <设备ID 设备序号="8">142</设备ID>
+  <设备ID 设备序号="9">143</设备ID>
+</实验0001>
